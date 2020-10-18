@@ -1,4 +1,4 @@
-## Front End Resources
+## Front End Design Resources
 
 - [Color Hunt](colorhunt.io) - Color Palettes for CSS
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) - Color Checker
